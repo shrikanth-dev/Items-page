@@ -22,9 +22,9 @@ Create an HTML page with:
 
 -Two buttons:
 
-    -Add: Appends a new item (<li>new item</li>) to the list and adds a new background color to the container.
+  -Add: Appends a new item (<li>new item</li>) to the list and adds a new background color to the container.
 
-    -Remove: Removes the background color by removing the applied class.
+  -Remove: Removes the background color by removing the applied class.
 
 -Use vanilla JavaScript DOM manipulation without libraries.
 
@@ -32,13 +32,12 @@ Create an HTML page with:
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
+![](item_page.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/shrikanth-dev/Items-page)
+- Live Site URL: [live site URL](https://shrikanth-dev.github.io/Items-page/)
 
 ### Built with
 
