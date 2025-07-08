@@ -1,0 +1,40 @@
+body{
+    width: 1020px;
+    margin: 0 auto;
+}
+
+.container{
+
+    background-color: burlywood;
+}
+
+ol{
+    position: relative;
+    
+    border: 1px solid black;
+    align-items: center;
+    padding: 5px;
+    margin: 5px 2px;
+    height: 430px;
+    overflow-y: scroll;
+}
+
+li{
+    margin-left: 10px;
+    height: 30px;
+    padding: 10px;
+    flex-basis: 100%;
+}
+
+button{
+    height: 30px;
+    padding: 7px;
+
+    flex-basis: 80px;
+
+}
+
+.list-container{
+    background-color: darkgray;
+
+}
